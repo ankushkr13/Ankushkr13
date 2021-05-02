@@ -43,14 +43,13 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Expressjs-black?style=for-the-badge&logo=Express.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
 </p>
 <br>
 <p align = "center">
