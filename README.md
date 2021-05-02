@@ -11,10 +11,7 @@
 
 <h1 align="center">Hi 👋  , I'm Ankush Kumar </h1>
 
-
-- 🕵
-
-- 🌱 
+ 
 
 
 
