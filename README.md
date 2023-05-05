@@ -19,10 +19,10 @@
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
  
-<img src="https://img.shields.io/badge/-_ankush.raj_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_ankush.raj_/" />
+<img src="https://img.shields.io/badge/-_ankush_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_ankush.raj_/" />
 <img src="https://img.shields.io/badge/-ankushkumar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankushkr0313@gmail.com" />
-<img src="https://img.shields.io/badge/-ankush-kumar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anky027//" />
-<img src="https://img.shields.io/badge/-ankushraj45-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ankushraj45" />
+<img src="https://img.shields.io/badge/-ankushkr?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anky027//" />
+<img src="https://img.shields.io/badge/-ankushkr-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/its_anky27" />
 
 </p>
 
