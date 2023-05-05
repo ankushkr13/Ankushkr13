@@ -21,7 +21,7 @@
  
 <img src="https://img.shields.io/badge/-_ankush_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_ankush.raj_/" />
 <img src="https://img.shields.io/badge/-ankushkumar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankushkr0313@gmail.com" />
-<img src="https://img.shields.io/badge/-ankushkr?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anky027//" />
+<img src="https://img.shields.io/badge/-ankush-kr?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anky027//" />
 <img src="https://img.shields.io/badge/-ankushkr-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/its_anky27" />
 
 </p>
