@@ -9,7 +9,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋  , I'm Ankush Kumar, Full stck Developer</h1>
+<h1 align="center">Hi 👋  , I'm Ankush Kumar, Full Stack Developer</h1>
 
  
 
