@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/-_Instagram_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_ankush.raj_/" />
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankushkr0313@gmail.com" />
 <img src="https://img.shields.io/badge/-Linkedin-kr?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankushkr01/" />
-<img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/its_anky27" />
+<img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/its_anky27" />
 
 </p>
 
