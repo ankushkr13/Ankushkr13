@@ -9,7 +9,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋  , I'm Ankush Kumar, Full Stack Developer</h1>
+<h1 align="center">Hi 👋  , I'm Ankush, Full Stack Developer</h1>
 
  
 
@@ -21,7 +21,7 @@
  
 <img src="https://img.shields.io/badge/-_ankush_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_ankush.raj_/" />
 <img src="https://img.shields.io/badge/-ankushkumar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankushkr0313@gmail.com" />
-<img src="https://img.shields.io/badge/-ankush-kr?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anky027//" />
+<img src="https://img.shields.io/badge/-ankush-kr?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankushkr01/" />
 <img src="https://img.shields.io/badge/-ankushkr-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/its_anky27" />
 
 </p>
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-Expressjs-black?style=for-the-badge&logo=Express.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/-Reactjs-black?style=for-the-badge&logo=react.js"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
